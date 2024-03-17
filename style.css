@@ -1,0 +1,56 @@
+* {
+  margin: 10px;
+  padding: 5px;
+}
+
+#container {
+  background-color: yellow;
+}
+
+#tegels {
+  background-color: red;
+}
+
+#dobbelstenen {
+  background-color: aqua;
+}
+
+#container-speelveld {
+  background-color: beige;
+}
+
+#score {
+  background-color: brown;
+}
+
+#speelveld {
+  background-color: yellowgreen;
+}
+
+#gebruikte-dobbelstenen {
+  background-color: blueviolet;
+}
+
+#boodschap {
+  background-color: cadetblue;
+}
+
+#bericht {
+  background-color: tomato;
+}
+
+#speel {
+  background-color: wheat;
+}
+
+#speel-verder {
+  background-color: aquamarine;
+}
+
+#stop {
+  background-color: salmon;
+}
+
+#spelers {
+  background-color: steelblue;
+}
